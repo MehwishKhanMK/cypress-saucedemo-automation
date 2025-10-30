@@ -41,7 +41,8 @@ To run tests locally:
 ```bash
 npx cypress open
 
-### ***Author***
 
+
+### Author
 Mehwish Khan
 Quality Assurance Automation – 10Pearls
